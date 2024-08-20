@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="ru">
+<title>Примитивный кликер через WebTransport для образовательных целей</title>
+<meta charset="utf-8">
+<script src="clicker.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+    body {
+    font-family: sans-serif;
+  }
+
+  h1 {
+    margin: 0 auto;
+    width: fit-content;
+  }
+
+  h2 {
+    border-bottom: 1px dotted #333;
+    font-size: 120%;
+    font-weight: normal;
+    padding-bottom: 0.2em;
+    padding-top: 0.5em;
+  }
+
+  #top {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  #tool {
+    flex-grow: 1;
+    margin: 0 auto;
+    max-width: 26em;
+    padding: 0 1em;
+    width: 26em;
+  }
+
+  .input-line {
+    display: flex;
+  }
+
+  .input-line input[type=text] {
+    flex-grow: 1;
+    margin: 0 0.5em;
+  }
+
+  textarea {
+    height: 3em;
+    width: 100%;
+  }
+
+  #connect  {
+    margin-top: 0.5em;
+    margin-right: 0.5em;
+
+  }
+  #sendDataFrame, #sendDataDStream  {
+    margin-top: 0.5em;
+    width: 100%;
+  }
+
+  #event-log {
+    border: 1px dotted black;
+    font-family: monospace;
+    height: 12em;
+    overflow: scroll;
+    padding-bottom: 1em;
+    padding-top: 1em;
+  }
+</style>
+
+<body>
+<div id="top">
+    <div id="tool">
+        <h1>Кликер</h1>
+        <p>Реализация веб кликера через WebTransport для образовательных целей.</p>
+        <div>
+            <h2>Установить соединение с WebTransport</h2>
+            <div class="input-line">
+                <label for="url">Host:Port/Path:</label>
+                <input type="text" name="url" id="url"
+                       value="https://localhost:4433/clicker">
+            </div>
+            <div class="input-line">
+                <label for="username">Пользователь:</label>
+                <input type="text" name="username" id="username"
+                       value="John Doe">
+            </div>
+            <div style="text-align: right">
+                <input type="button" id="connect" value="Connect" onclick="connectWT()">
+            </div>
+
+        </div>
+        <div>
+            <form name="clicker">
+                <input type="button" id="sendDataFrame" name="sendDataFrame" value="Клик через дейтаграмму"
+                       disabled onclick="sendDatagram()">
+                <input type="button" id="sendDataDStream" name="sendDataDStream"
+                       value="Клик через двунаправленный поток."
+                       disabled onclick="sendBiStream()">
+            </form>
+        </div>
+        <h1 id="userScore"></h1>
+        <div>
+            <h2>Журнал событий</h2>
+            <ul id="event-log">
+            </ul>
+        </div>
+    </div>
+</div>
+</body>
+</html>

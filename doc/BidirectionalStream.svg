@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG BidirectionalStream.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.64034in" height="7.7481in"
+		viewBox="0 0 406.104 557.863" xml:space="preserve" color-interpolation-filters="sRGB" class="st17">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {marker-end:url(#mrkr4-6);stroke:#b44f1e;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st2 {fill:#b44f1e;fill-opacity:1;stroke:#b44f1e;stroke-opacity:1;stroke-width:0.31645569620253}
+		.st3 {fill:#ffffff;stroke:#b44f1e;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st4 {stroke:#b44f1e;stroke-dasharray:10.5,7.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st5 {fill:#000000;font-family:Calibri;font-size:1.00001em;font-weight:bold}
+		.st6 {fill:#e7e6e2;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st7 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st8 {font-size:1em}
+		.st9 {fill:#000000;font-family:Calibri;font-size:0.833336em;font-weight:bold}
+		.st10 {fill:#b44f1e;stroke:#b44f1e;stroke-width:0.24}
+		.st11 {fill:#000000;font-family:Calibri;font-size:0.666664em;font-stretch:semi-expanded}
+		.st12 {fill:#d4a752;stroke:#d4a752;stroke-width:0.24}
+		.st13 {fill:#f5e1bf;stroke:#f5e1bf;stroke-width:0.24}
+		.st14 {fill:#f5e1bf;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st15 {fill:#92cddc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st16 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st17 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-6" class="st2" v:arrowType="4" v:arrowSize="3" v:setback="6.32" refX="-6.32" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.16,-3.16) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Соединительная линия" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" v:layerMember="0" transform="translate(329.548,-69.6523)">
+			<title>Сообщение.472</title>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 550.78 L-248.83 550.78" class="st1"/>
+		</g>
+		<g id="shape2-7" v:mID="2" v:groupContext="shape" v:layerMember="0" transform="translate(71.2412,-13.4089)">
+			<title>Сообщение.473</title>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 550.78 L247.13 550.78" class="st1"/>
+		</g>
+		<g id="group3-12" transform="translate(45.7294,-528.058)" v:mID="3" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+			</v:userDefs>
+			<title>Жизненный цикл объекта.474</title>
+			<desc>Клиент</desc>
+			<g id="shape4-13" v:mID="4" v:groupContext="shape">
+				<title>Лист.4</title>
+				<rect x="0" y="532.351" width="51.0236" height="25.5118" class="st3"/>
+			</g>
+			<g id="shape5-15" v:mID="5" v:groupContext="shape" transform="translate(17.0079,-29.0551)">
+				<title>Лист.5</title>
+				<path d="M8.5 557.86 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st3"/>
+			</g>
+			<g id="shape6-17" v:mID="6" v:groupContext="shape" transform="translate(17.0079,523.613)">
+				<title>Лист.6</title>
+			</g>
+			<g id="shape7-19" v:mID="7" v:groupContext="shape" transform="translate(583.375,557.863) rotate(90)">
+				<title>Лист.7</title>
+				<path d="M0 557.86 L506 557.86" class="st4"/>
+			</g>
+			<g id="shape3-22" v:mID="3" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="25.5118" cy="545.107" width="51.03" height="25.5118"/>
+				<rect x="0" y="532.351" width="51.0236" height="25.5118" class="st3"/>
+				<text x="7.01" y="548.71" class="st5" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Клиент</text>			</g>
+		</g>
+		<g id="group8-25" transform="translate(304.036,-528.058)" v:mID="8" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+			</v:userDefs>
+			<title>Жизненный цикл объекта.479</title>
+			<desc>Сервер</desc>
+			<g id="shape9-26" v:mID="9" v:groupContext="shape">
+				<title>Лист.9</title>
+				<rect x="0" y="532.351" width="51.0236" height="25.5118" class="st3"/>
+			</g>
+			<g id="shape10-28" v:mID="10" v:groupContext="shape" transform="translate(17.0079,-29.0551)">
+				<title>Лист.10</title>
+				<path d="M8.5 557.86 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st3"/>
+			</g>
+			<g id="shape11-30" v:mID="11" v:groupContext="shape" transform="translate(17.0079,523.613)">
+				<title>Лист.11</title>
+			</g>
+			<g id="shape12-32" v:mID="12" v:groupContext="shape" transform="translate(583.375,557.863) rotate(90)">
+				<title>Лист.12</title>
+				<path d="M0 557.86 L506 557.86" class="st4"/>
+			</g>
+			<g id="shape8-35" v:mID="8" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="25.5118" cy="545.107" width="51.03" height="25.5118"/>
+				<rect x="0" y="532.351" width="51.0236" height="25.5118" class="st3"/>
+				<text x="6.89" y="548.71" class="st5" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Сервер</text>			</g>
+		</g>
+		<g id="shape13-38" v:mID="13" v:groupContext="shape" transform="translate(0.375049,-493.159)">
+			<title>Поле.484</title>
+			<desc>let stream = await transport .createBidirectionalStream();</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="99.2126" cy="546.525" width="198.43" height="22.6772"/>
+			<rect x="0" y="535.186" width="198.425" height="22.6772" class="st6"/>
+			<text x="4" y="543.52" class="st7" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>let stream = await transport<v:tabChar/><tspan
+						x="46.52" dy="1.2em" class="st8">.createBidirectionalStream();</tspan></text>		</g>
+		<g id="shape14-42" v:mID="14" v:groupContext="shape" transform="translate(246.989,-301.899)">
+			<title>Поле.485</title>
+			<desc>event = StreamDataReceived</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="79.3701" cy="549.262" width="158.75" height="17.2018"/>
+			<rect x="0" y="540.661" width="158.74" height="17.2018" class="st6"/>
+			<text x="19.32" y="552.26" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1" v:bulletSize="0.166667"/><v:tabList/>event = StreamDataReceived</text>		</g>
+		<g id="shape15-45" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(71.2412,-323.127)">
+			<title>Сообщение.486</title>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 550.78 L247.13 550.78" class="st1"/>
+		</g>
+		<g id="group16-50" transform="translate(127.934,-0.75)" v:mID="16" v:groupContext="group">
+			<title>Лист.16</title>
+			<g id="shape17-51" v:mID="17" v:groupContext="shape">
+				<title>Поле.178</title>
+				<desc>datagram 8</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="48.189" cy="538.294" width="96.38" height="39.1385"/>
+				<rect x="0" y="518.725" width="96.378" height="39.1385" class="st10"/>
+				<text x="27.74" y="526.92" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>datagram <tspan
+							class="st8" v:langID="1049">8</tspan></text>			</g>
+			<g id="shape18-55" v:mID="18" v:groupContext="shape" transform="translate(0.708661,-4.25197)">
+				<title>Поле.179</title>
+				<desc>packet #10 1RTT</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="47.4803" cy="545.729" width="94.97" height="24.2688"/>
+				<rect x="0" y="533.594" width="94.9606" height="24.2688" class="st12"/>
+				<text x="17.99" y="541.79" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>packet #10<tspan
+							class="st8" v:langID="1049"> </tspan>1RTT</text>			</g>
+			<g id="shape19-59" v:mID="19" v:groupContext="shape" transform="translate(1.41732,-7.61528)">
+				<title>Поле.181</title>
+				<desc>frame ack</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="46.7717" cy="552.903" width="93.55" height="9.92126"/>
+				<rect x="0" y="547.942" width="93.5433" height="9.92126" class="st13"/>
+				<text x="29.12" y="556.14" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>frame ack</text>			</g>
+		</g>
+		<g id="shape20-62" v:mID="20" v:groupContext="shape" transform="translate(246.989,-270.912)">
+			<title>Поле.491</title>
+			<desc>h3_event = WebTransportStreamDataReceived</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="79.3701" cy="545.259" width="158.75" height="25.2078"/>
+			<rect x="0" y="532.655" width="158.74" height="25.2078" class="st14"/>
+			<text x="56.23" y="542.26" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1" v:bulletSize="0.166667"/><v:tabList/>h3_<tspan
+						class="st8" v:langID="1049">event = </tspan><tspan x="5.87" dy="1.2em" class="st8">WebTransportStreamDataReceived</tspan></text>		</g>
+		<g id="group21-67" transform="translate(193.131,-46.1043)" v:mID="21" v:groupContext="group">
+			<title>Лист.21</title>
+			<g id="shape22-68" v:mID="22" v:groupContext="shape">
+				<title>Поле.157</title>
+				<desc>datagram 7</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="48.189" cy="532.898" width="96.38" height="49.9306"/>
+				<rect x="0" y="507.933" width="96.378" height="49.9306" class="st10"/>
+				<text x="27.74" y="516.13" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>datagram <tspan
+							class="st8" v:langID="1049">7</tspan></text>			</g>
+			<g id="shape23-72" v:mID="23" v:groupContext="shape" transform="translate(0.708661,-3.17111)">
+				<title>Поле.158</title>
+				<desc>packet #9 1RTT</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="47.4803" cy="539.792" width="94.97" height="36.1417"/>
+				<rect x="0" y="521.722" width="94.9606" height="36.1417" class="st12"/>
+				<text x="20.22" y="529.92" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>packet #9<tspan
+							class="st8" v:langID="1049"> </tspan>1RTT</text>			</g>
+			<g id="shape24-76" v:mID="24" v:groupContext="shape" transform="translate(1.41732,-7.06874)">
+				<title>Поле.159</title>
+				<desc>frame padding</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="46.7717" cy="552.903" width="93.55" height="9.92126"/>
+				<rect x="0" y="547.942" width="93.5433" height="9.92126" class="st13"/>
+				<text x="20.65" y="556.14" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>frame padding</text>			</g>
+			<g id="shape25-79" v:mID="25" v:groupContext="shape" transform="translate(1.41732,-18.4073)">
+				<title>Поле.160</title>
+				<desc>frame ping</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="46.7717" cy="552.903" width="93.55" height="9.92126"/>
+				<rect x="0" y="547.942" width="93.5433" height="9.92126" class="st13"/>
+				<text x="27.38" y="556.14" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>frame ping</text>			</g>
+		</g>
+		<g id="group26-82" transform="translate(127.934,-310.881)" v:mID="26" v:groupContext="group">
+			<title>Лист.26</title>
+			<g id="shape27-83" v:mID="27" v:groupContext="shape">
+				<title>Поле.157</title>
+				<desc>datagram 3</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="48.189" cy="539.58" width="96.38" height="36.567"/>
+				<rect x="0" y="521.296" width="96.378" height="36.567" class="st10"/>
+				<text x="27.74" y="529.5" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>datagram <tspan
+							class="st8" v:langID="1049">3</tspan></text>			</g>
+			<g id="shape28-87" v:mID="28" v:groupContext="shape" transform="translate(0.708661,-2.83468)">
+				<title>Поле.158</title>
+				<desc>packet #7 1RTT</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="47.4803" cy="546.306" width="94.97" height="23.1146"/>
+				<rect x="0" y="534.749" width="94.9606" height="23.1146" class="st12"/>
+				<text x="20.22" y="542.95" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>packet #7<tspan
+							class="st8" v:langID="1049"> </tspan>1RTT</text>			</g>
+			<g id="shape29-91" v:mID="29" v:groupContext="shape" transform="translate(1.41732,-5.04374)">
+				<title>Поле.160</title>
+				<desc>frame stream 4</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="46.7717" cy="552.903" width="93.55" height="9.92126"/>
+				<rect x="0" y="547.942" width="93.5433" height="9.92126" class="st13"/>
+				<text x="19.32" y="556.14" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>frame stream 4</text>			</g>
+		</g>
+		<g id="shape30-94" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(329.548,-160.427)">
+			<title>Сообщение.501</title>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 550.78 L-248.83 550.78" class="st1"/>
+		</g>
+		<g id="group31-99" transform="translate(193.131,-150.92)" v:mID="31" v:groupContext="group">
+			<title>Лист.31</title>
+			<g id="shape32-100" v:mID="32" v:groupContext="shape">
+				<title>Поле.157</title>
+				<desc>datagram 5</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="48.189" cy="539.919" width="96.38" height="35.8889"/>
+				<rect x="0" y="521.974" width="96.378" height="35.8889" class="st10"/>
+				<text x="27.74" y="530.17" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>datagram <tspan
+							class="st8" v:langID="1049">5</tspan></text>			</g>
+			<g id="shape33-104" v:mID="33" v:groupContext="shape" transform="translate(0.708661,-2.26772)">
+				<title>Поле.158</title>
+				<desc>packet #7 1RTT</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="47.4803" cy="546.362" width="94.97" height="23.0034"/>
+				<rect x="0" y="534.86" width="94.9606" height="23.0034" class="st12"/>
+				<text x="20.22" y="543.06" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>packet #7<tspan
+							class="st8" v:langID="1049"> </tspan>1RTT</text>			</g>
+			<g id="shape34-108" v:mID="34" v:groupContext="shape" transform="translate(1.41732,-4.36565)">
+				<title>Поле.160</title>
+				<desc>frame stream 4</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="46.7717" cy="552.903" width="93.55" height="9.92126"/>
+				<rect x="0" y="547.942" width="93.5433" height="9.92126" class="st13"/>
+				<text x="19.32" y="556.14" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>frame stream 4</text>			</g>
+		</g>
+		<g id="shape35-111" v:mID="35" v:groupContext="shape" transform="translate(0.375,-351.7)">
+			<title>Поле.511</title>
+			<desc>let writer = stream.writable.getWriter(); await writer.write(...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="99.2126" cy="536.603" width="198.43" height="42.5197"/>
+			<rect x="0" y="515.344" width="198.425" height="42.5197" class="st6"/>
+			<text x="4" y="527.6" class="st7" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>let writer = stream.writable.getWriter();<v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st8">await writer.write(data);<v:lf/></tspan><tspan x="4" dy="1.2em" class="st8">await writer.close();</tspan></text>		</g>
+		<g id="shape36-116" v:mID="36" v:groupContext="shape" transform="translate(246.989,-436.466)">
+			<title>Поле.512</title>
+			<desc>event = StreamDataReceived</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="79.3701" cy="549.262" width="158.75" height="17.2018"/>
+			<rect x="0" y="540.661" width="158.74" height="17.2018" class="st6"/>
+			<text x="19.32" y="552.26" class="st9" v:langID="1049"><v:paragraph v:horizAlign="1" v:bulletSize="0.166667"/><v:tabList/>event = <tspan
+						class="st8" v:langID="1033">StreamDataReceived</tspan></text>		</g>
+		<g id="shape37-120" v:mID="37" v:groupContext="shape" v:layerMember="0" transform="translate(74.0758,-461.357)">
+			<title>Сообщение.513</title>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 550.78 L247.13 550.78" class="st1"/>
+		</g>
+		<g id="group38-125" transform="translate(130.769,-449.111)" v:mID="38" v:groupContext="group">
+			<title>Лист.38</title>
+			<g id="shape39-126" v:mID="39" v:groupContext="shape">
+				<title>Поле.157</title>
+				<desc>datagram 1</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="48.189" cy="539.58" width="96.38" height="36.567"/>
+				<rect x="0" y="521.296" width="96.378" height="36.567" class="st10"/>
+				<text x="27.74" y="529.5" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>datagram 1</text>			</g>
+			<g id="shape40-129" v:mID="40" v:groupContext="shape" transform="translate(0.708661,-2.83468)">
+				<title>Поле.158</title>
+				<desc>packet #7 1RTT</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="47.4803" cy="546.306" width="94.97" height="23.1146"/>
+				<rect x="0" y="534.749" width="94.9606" height="23.1146" class="st12"/>
+				<text x="20.22" y="542.95" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>packet #7<tspan
+							class="st8" v:langID="1049"> </tspan>1RTT</text>			</g>
+			<g id="shape41-133" v:mID="41" v:groupContext="shape" transform="translate(1.41732,-5.04374)">
+				<title>Поле.160</title>
+				<desc>frame stream 4</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="46.7717" cy="552.903" width="93.55" height="9.92126"/>
+				<rect x="0" y="547.942" width="93.5433" height="9.92126" class="st13"/>
+				<text x="19.32" y="556.14" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>frame stream 4</text>			</g>
+		</g>
+		<g id="shape42-136" v:mID="42" v:groupContext="shape" transform="translate(246.989,-221.112)">
+			<title>Поле.518</title>
+			<desc>event = StreamDataReceived</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="79.3701" cy="549.262" width="158.75" height="17.2018"/>
+			<rect x="0" y="540.661" width="158.74" height="17.2018" class="st6"/>
+			<text x="19.32" y="552.26" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1" v:bulletSize="0.166667"/><v:tabList/>event = StreamDataReceived</text>		</g>
+		<g id="shape43-139" v:mID="43" v:groupContext="shape" v:layerMember="0" transform="translate(71.2412,-242.339)">
+			<title>Сообщение.519</title>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 550.78 L247.13 550.78" class="st1"/>
+		</g>
+		<g id="shape44-144" v:mID="44" v:groupContext="shape" transform="translate(246.989,-190.125)">
+			<title>Поле.520</title>
+			<desc>h3_event = WebTransportStreamDataReceived</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="79.3701" cy="545.259" width="158.75" height="25.2078"/>
+			<rect x="0" y="532.655" width="158.74" height="25.2078" class="st14"/>
+			<text x="56.23" y="542.26" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1" v:bulletSize="0.166667"/><v:tabList/>h3_<tspan
+						class="st8" v:langID="1049">event = </tspan><tspan x="5.87" dy="1.2em" class="st8">WebTransportStreamDataReceived</tspan></text>		</g>
+		<g id="group45-149" transform="translate(127.934,-230.093)" v:mID="45" v:groupContext="group">
+			<title>Лист.45</title>
+			<g id="shape46-150" v:mID="46" v:groupContext="shape">
+				<title>Поле.157</title>
+				<desc>datagram 4</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="48.189" cy="539.58" width="96.38" height="36.567"/>
+				<rect x="0" y="521.296" width="96.378" height="36.567" class="st10"/>
+				<text x="27.74" y="529.5" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>datagram <tspan
+							class="st8" v:langID="1049">4</tspan></text>			</g>
+			<g id="shape47-154" v:mID="47" v:groupContext="shape" transform="translate(0.708661,-2.83468)">
+				<title>Поле.158</title>
+				<desc>packet #7 1RTT</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="47.4803" cy="546.306" width="94.97" height="23.1146"/>
+				<rect x="0" y="534.749" width="94.9606" height="23.1146" class="st12"/>
+				<text x="20.22" y="542.95" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>packet #7<tspan
+							class="st8" v:langID="1049"> </tspan>1RTT</text>			</g>
+			<g id="shape48-158" v:mID="48" v:groupContext="shape" transform="translate(1.41732,-5.04374)">
+				<title>Поле.160</title>
+				<desc>frame stream 4</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="46.7717" cy="552.903" width="93.55" height="9.92126"/>
+				<rect x="0" y="547.942" width="93.5433" height="9.92126" class="st13"/>
+				<text x="19.32" y="556.14" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>frame stream 4</text>			</g>
+		</g>
+		<g id="shape49-161" v:mID="49" v:groupContext="shape" transform="translate(210.139,-222.723)">
+			<title>Круг.525</title>
+			<desc>FIN</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="11.3386" cy="549.359" width="22.68" height="17.0079"/>
+			<path d="M0 549.36 A11.3386 8.50394 0 0 1 22.68 549.36 A11.3386 8.50394 0 0 1 0 549.36 Z" class="st15"/>
+			<text x="5.91" y="551.76" class="st16" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>FIN</text>		</g>
+		<g id="shape50-164" v:mID="50" v:groupContext="shape" transform="translate(272.501,-143.353)">
+			<title>Круг.526</title>
+			<desc>FIN</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="11.3386" cy="549.359" width="22.68" height="17.0079"/>
+			<path d="M0 549.36 A11.3386 8.50394 0 0 1 22.68 549.36 A11.3386 8.50394 0 0 1 0 549.36 Z" class="st15"/>
+			<text x="5.91" y="551.76" class="st16" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>FIN</text>		</g>
+		<g id="shape51-167" v:mID="51" v:groupContext="shape" v:layerMember="0" transform="translate(329.194,-114.136)">
+			<title>Сообщение.527</title>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 550.78 L-248.83 550.78" class="st1"/>
+		</g>
+		<g id="group52-172" transform="translate(192.777,-104.761)" v:mID="52" v:groupContext="group">
+			<title>Лист.52</title>
+			<g id="shape53-173" v:mID="53" v:groupContext="shape">
+				<title>Поле.157</title>
+				<desc>datagram 6</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="48.189" cy="539.985" width="96.38" height="35.7573"/>
+				<rect x="0" y="522.106" width="96.378" height="35.7573" class="st10"/>
+				<text x="27.74" y="530.31" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>datagram <tspan
+							class="st8" v:langID="1049">6</tspan></text>			</g>
+			<g id="shape54-177" v:mID="54" v:groupContext="shape" transform="translate(0.708661,-1.70079)">
+				<title>Поле.158</title>
+				<desc>packet #8 1RTT</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="47.4803" cy="546.144" width="94.97" height="23.4388"/>
+				<rect x="0" y="534.424" width="94.9606" height="23.4388" class="st12"/>
+				<text x="20.22" y="542.62" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>packet #8<tspan
+							class="st8" v:langID="1049"> </tspan>1RTT</text>			</g>
+			<g id="shape55-181" v:mID="55" v:groupContext="shape" transform="translate(1.41732,-4.23411)">
+				<title>Поле.160</title>
+				<desc>frame ack</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="46.7717" cy="552.903" width="93.55" height="9.92126"/>
+				<rect x="0" y="547.942" width="93.5433" height="9.92126" class="st13"/>
+				<text x="29.12" y="556.14" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>frame ack</text>			</g>
+		</g>
+		<g id="shape56-184" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(329.194,-404.96)">
+			<title>Сообщение.536</title>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 550.78 L-248.83 550.78" class="st1"/>
+		</g>
+		<g id="group57-189" transform="translate(192.777,-395.586)" v:mID="57" v:groupContext="group">
+			<title>Лист.57</title>
+			<g id="shape58-190" v:mID="58" v:groupContext="shape">
+				<title>Поле.157</title>
+				<desc>datagram 2</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="48.189" cy="539.985" width="96.38" height="35.7573"/>
+				<rect x="0" y="522.106" width="96.378" height="35.7573" class="st10"/>
+				<text x="27.74" y="530.31" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>datagram 2</text>			</g>
+			<g id="shape59-193" v:mID="59" v:groupContext="shape" transform="translate(0.708661,-2.26771)">
+				<title>Поле.158</title>
+				<desc>packet #6 1RTT</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="47.4803" cy="546.427" width="94.97" height="22.8719"/>
+				<rect x="0" y="534.991" width="94.9606" height="22.8719" class="st12"/>
+				<text x="20.22" y="543.19" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>packet #6<tspan
+							class="st8" v:langID="1049"> </tspan>1RTT</text>			</g>
+			<g id="shape60-197" v:mID="60" v:groupContext="shape" transform="translate(1.41732,-4.2341)">
+				<title>Поле.160</title>
+				<desc>frame ack</desc>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="46.7717" cy="552.903" width="93.55" height="9.92126"/>
+				<rect x="0" y="547.942" width="93.5433" height="9.92126" class="st13"/>
+				<text x="29.12" y="556.14" class="st11" v:langID="1033"><v:paragraph v:spLine="-0.7" v:horizAlign="1"/><v:tabList/>frame ack</text>			</g>
+		</g>
+	</g>
+</svg>
